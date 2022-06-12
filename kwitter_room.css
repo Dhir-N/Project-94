@@ -1,0 +1,20 @@
+#logout{
+    width: 100px;
+}
+
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#add_room{
+    color: white;
+    border-color: mediumvioletred;
+    background-color: mediumvioletred;
+    width: 100px;
+    height: 25px;
+}
+label{
+    color: white;
+}
